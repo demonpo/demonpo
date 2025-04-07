@@ -36,7 +36,7 @@
 
 Here are a few projects I’ve worked on:
 
-- [**What2Game**](https://www.what2game.gg) – My personal finance tracker application.
+- [**What2Game**](https://www.what2game.gg) – App to help you choose what to game.
 - [**Proalco**](https://www.proalco.com/inicio) – A modern website for a distribution specialized company.
 - [**Ron San Miguel**](https://ronsanmiguel.com) – A modern website for a rum company.
 
